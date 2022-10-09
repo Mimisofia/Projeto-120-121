@@ -1,0 +1,52 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 23px;
+    
+  }
+  .headingDiv
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    float: none;
+    padding: 10px;
+    
+  }
+  .headingDiv2
+  {
+    font-size: 18px;
+  }
+  .resultToTag
+  {
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .resultToTag span
+  {
+    white-space: pre-line;
+    /*Se o texto for muito grande para caber na tag p, o texto se moverá automaticamente para a próxima linha*/
+  }
+  
+  .copyRightFooter
+  {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(62, 202, 202); 
+    line-height: 3;
+    text-align: center;
+  }
+
+  canvas
+  {
+    border: 5px solid rgb(2, 59, 109);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(120, 255, 237);
+    margin-top: 160px;
+  }
+ 
